@@ -1,0 +1,12 @@
+1.
+
+
+2.
+
+
+3. Fungsi tag HTML pada table
+	-thead : Bagian dari table yang mendefinisikan isi konten tabel(Judul kolom), ditulis bold
+	-tbody : Bagian dari table yang diisi dengan konten tabel
+	-tr	   : Bagian dari table yang diisi dengan konten tabel secara horizontal(baris)
+	-th    : Bagian dari table yang diisi dengan judul konten tiap kolom
+	-td    : Bagian dari table yang diisi dengan konten tabel secara vertikal(kolom)
